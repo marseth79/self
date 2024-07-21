@@ -1,6 +1,6 @@
 @media only screen and (max-width:768px)  {
      #hero {
-        background: url(../../../image/hero-bg-sm.jpeg);
+        background: url(../img/hero-bg-sm.jpeg);
      }
      #about{
         flex-direction: column-reverse;
